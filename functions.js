@@ -35,7 +35,7 @@ function toggleButtons() {
 // API STUFF ///////////
 ////////////////////////
 
-import { OPENAI_API_KEY } from "./config.js";
+// import { OPENAI_API_KEY } from "./config.js";
 
 // Make a request to the OpenAI ChatGPT API
 async function callGPT(messages) {
